@@ -1,0 +1,12 @@
+1) Vérifier que les data sont clean (cf Jupyter de Oliv)
+
+2) Inventaire des solutions existantes et comment les articuler
+
+3) Découper le set de data d'entrainement en test + train de nouveau et de la cross validation
+
+4) Olivier a trouvé des catégories selon les composantes de l'ACP => créer une nouvelle feature
+
+5) Pollet essaye de diviser les chiffres d'affaire en solde par le nombre de jours de solde : adimensionnement
+
+
+
