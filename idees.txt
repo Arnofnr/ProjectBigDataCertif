@@ -1,10 +1,18 @@
 1) Vérifier que les data sont clean (cf Jupyter de Oliv)
+Ca c'est bon normalement, testé avec un .isna()
+
 
 2) Inventaire des solutions existantes et comment les articuler
 
+-a priori le KNN ne sert à rien puisque c'est utiliser pour une séparation binaire. Peut - être qu'on peut l'utiliser pour faire un premier classement "ne vend pas" ou "vend" (nb_sales>0)?
+
+
+
 3) Découper le set de data d'entrainement en test + train de nouveau et de la cross validation
+Fait sur Marie
 
 4) Olivier a trouvé des catégories selon les composantes de l'ACP => créer une nouvelle feature
+
 
 5) Pollet essaye de diviser les chiffres d'affaire en solde par le nombre de jours de solde : adimensionnement
 
